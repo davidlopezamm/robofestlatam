@@ -170,6 +170,51 @@
             </div>
             <!-- /container end-->
         </div>
+
+         <div class="counter-up-area pad100 bg-counter parallax">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-3">
+                        <div class="single-counter xs-mb40">
+                            <div class="count-content">
+                                <span class="count">20</span>
+                                <p>Paises</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /col end-->
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-3">
+                        <div class="single-counter xs-mb40">
+                            <div class="count-content">
+                                <span class="count">7</span>
+                                <p>Categorias</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /col end-->
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-3">
+                        <div class="single-counter xs-mb40">
+                            <div class="count-content">
+                                <span class="count"></span>
+                                <p>Talleres</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /col end-->
+                    <div class="col-xl-3 col-lg-3 d-md-none d-lg-block col-sm-3">
+                        <div class="single-counter">
+                            <div class="count-content">
+                                <span class="count">450</span>
+                                <p>Participantes</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /col end-->
+                </div>
+                <!-- /row end-->
+            </div>
+            <!-- /container end-->
+        </div>
         <!--Conference Synopsis Area End Here-->
 
         <!--Event Schedule Area Start Here
@@ -1126,50 +1171,7 @@
     </div>
 
         <!--Counter Up Area Start Here-->
-        <div class="counter-up-area pad100 bg-counter parallax">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-3">
-                        <div class="single-counter xs-mb40">
-                            <div class="count-content">
-                                <span class="count">20</span>
-                                <p>Paises</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /col end-->
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-3">
-                        <div class="single-counter xs-mb40">
-                            <div class="count-content">
-                                <span class="count">7</span>
-                                <p>Categorias</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /col end-->
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-3">
-                        <div class="single-counter xs-mb40">
-                            <div class="count-content">
-                                <span class="count"></span>
-                                <p>Talleres</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /col end-->
-                    <div class="col-xl-3 col-lg-3 d-md-none d-lg-block col-sm-3">
-                        <div class="single-counter">
-                            <div class="count-content">
-                                <span class="count">450</span>
-                                <p>Participantes</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /col end-->
-                </div>
-                <!-- /row end-->
-            </div>
-            <!-- /container end-->
-        </div>
+       
         <!--Counter Up Area End Here-->
 
         <!--Contact Us Area Start Here-->
