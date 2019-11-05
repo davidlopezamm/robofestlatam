@@ -1173,7 +1173,7 @@
         <!--Counter Up Area End Here-->
 
         <!--Contact Us Area Start Here-->
-        <div class="contact-us-area home-1 pad100">
+       <!--  <div class="contact-us-area home-1 pad100">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4">
@@ -1182,11 +1182,16 @@
                                 <img src="assets/img/others/2.png" alt="">
                             </div>
                             <div class="inner-content">
-                                <p>Muy Pronto</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- /col end-->
+              
                     <div class="col-lg-4 col-md-4 col-sm-4">
                         <div class="icon-box xs-mb30">
                             <div class="box-icons">
@@ -1198,7 +1203,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- /col end-->
+                  
                     <div class="col-lg-4 col-md-4 col-sm-4">
                         <div class="icon-box">
                             <div class="box-icons">
@@ -1215,12 +1220,12 @@
                             </div>
                         </div>
                     </div>
-                    <!-- /col end-->
+                
                 </div>
-                <!-- /row end-->
+           
             </div>
-            <!-- /container end-->
-        </div>
+        
+        </div> -->
         <!--Contact Us Area End Here-->
 
         <!--Contact Us Area Start Here-->
