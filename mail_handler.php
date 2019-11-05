@@ -9,7 +9,7 @@ if(isset($_POST['submit'])){
     $message2 = "Copia de tu mensaje " . $first_name . "\n\n" . $_POST['message'];
 
     $headers = "From:" . $from;
-    $headers2 = "From:" . $to;
+    $headers2 = "From: contacto@robofestlatam.org";
     mail($to,$subject,$message,$headers) or die ("Failure");
     mail($from,$subject2,$message2,$headers2)or die ("Failure"); // sends a copy of the message to the sender
    // echo "Mail Sent. Thank you " . $first_name . ", we will contact you shortly.";
