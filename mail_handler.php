@@ -13,7 +13,7 @@ if(isset($_POST['submit'])){
     mail($to,$subject,$message,$headers) or die ("Failure");
     mail($from,$subject2,$message2,$headers2)or die ("Failure"); // sends a copy of the message to the sender
    // echo "Mail Sent. Thank you " . $first_name . ", we will contact you shortly.";
-     You can also use header('Location: index.php'); to redirect to another page.
+     header('Location: index.php');
     // You cannot use header and echo together. It's one or the other.
     }
 ?>
