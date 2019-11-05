@@ -1300,10 +1300,10 @@
 José María Morelos y Pavón 10, <br>Atlacomulco de Fabela, 50450 <br> Atlacomulco, Méx.</span>
                             </div>
                             <p>Regione meliore liberavisse vim ei. Et mei nusquam corpora<br> interesset. Mea zril expetendis conclusionemque id, id per<br>saperet vituperatoribus, ei eam stet fabulas. Ne pla.</p>
-                            <div class="sub-btn">
+                            <!-- <div class="sub-btn">
                                 <input type="text" placeholder="Tu correo electronico ">
                                 <button type="submit">Subscribete</button>
-                            </div>
+                            </div> -->
                             <div class="f-social">
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
