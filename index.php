@@ -69,7 +69,7 @@
                 <div class="row">
                     <div class="col-lg-2">
                         <div class="brand-logo">
-                            <a class="eventex-brand" href="index.html"><img src="assets/img/logo/logo-3.png" alt=""></a>
+                            <a class="eventex-brand" href="index.php"><img src="assets/img/logo/logo-3.png" alt=""></a>
                         </div>
                     </div>
                     <!-- /col end-->
