@@ -904,7 +904,7 @@
                 </div>
                 <!-- /row end-->
                 <div class="row">
-                    <div class="sponsers-active owl-carousel owl-theme">
+                   <!--  <div class="sponsers-active owl-carousel owl-theme">
                         <div class="col-lg-12">
                             <div class="single-sponsers">
                                 <a href="#"><img src="assets/img/sponsers/1.jpg" alt=""></a>
@@ -1001,7 +1001,7 @@
                                 <a href="#"><img src="assets/img/sponsers/5.png" alt=""></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-lg-12">
                         <div class="primary-btn text-center">
                             <a href="#" class="btn-primary">Vuelvete patrocinador!</a>
@@ -1150,7 +1150,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-3">
                         <div class="single-counter xs-mb40">
                             <div class="count-content">
-                                <span class="count">+20</span>
+                                <span class="count"></span>
                                 <p>Talleres</p>
                             </div>
                         </div>
@@ -1182,11 +1182,7 @@
                                 <img src="assets/img/others/2.png" alt="">
                             </div>
                             <div class="inner-content">
-                                <h3>Sede del Evento</h3>
-                                <p>Washington State Convention Center</p>
-                                <p>705 Pike Street</p>
-                                <p> 705 Pike Street Seattle, WA 98101</p>
-                                <p>Phone: 206-694-5000</p>
+                                <p>Muy Pronto</p>
                             </div>
                         </div>
                     </div>
@@ -1210,10 +1206,12 @@
                             </div>
                             <div class="inner-content">
                                 <h3>Lorem Ipsum</h3>
-                                <p>Washington State Convention Center</p>
-                                <p>705 Pike Street</p>
-                                <p> 705 Pike Street Seattle, WA 98101</p>
-                                <p>Phone: 206-694-5000</p>
+                               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                               tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                               quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                               consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                               cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                               proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                             </div>
                         </div>
                     </div>
@@ -1240,24 +1238,24 @@
                 </div>
                 <!-- /row end-->
                 <div class="row">
-                    <div class="col-lg-4 pr-0">
+                     <div class="col-lg-4 pr-0">
                         <div class="inner-box">
-                            <form action="#">
+                            <form action="mail_handler.php" method="post">
                                 <div class="row">
                                     <div class="col-lg-12 mb50">
-                                        <input class="form-control" type="text" placeholder="Nombre" required>
+                                        <input class="form-control" type="text" placeholder="Nombre" name="first_name" required>
                                     </div>
                                     <div class="col-lg-12 mb50">
-                                        <input class="form-control" type="email" placeholder="Email" required>
+                                        <input class="form-control" type="email" placeholder="Email" name="email" required>
                                     </div>
                                     <div class="col-lg-12 mb50">
-                                        <input class="form-control" type="text" placeholder="Asunto" required>
+                                        <input class="form-control" type="text" placeholder="Asunto" name="subject" required>
                                     </div>
                                     <div class="col-lg-12">
-                                        <textarea class="form-control" name="massage" placeholder="Mensaje"></textarea>
+                                        <textarea class="form-control" name="message" placeholder="Mensaje" ></textarea>
                                     </div>
                                     <div class="col-lg-12">
-                                        <button class="btn-primary" type="submit">Enviar Mensaje</button>
+                                        <button class="btn-primary" name="submit" type="submit">Enviar Mensaje</button>
                                     </div>
                                 </div>
                             </form>
