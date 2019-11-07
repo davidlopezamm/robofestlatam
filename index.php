@@ -124,7 +124,7 @@
                     <div class="col-lg-12">
                         <div class="banner-content">
                             <h1>Robofest</h1>
-                            <h2>Latinoámerica 2020</h2>
+                            <h2>Latinoamérica 2020</h2>
                             <p>¡Fechas muy pronto!</p>
                             <div class="primary-btn">
                                 <a href="#" class="btn-primary">Más Información</a>
