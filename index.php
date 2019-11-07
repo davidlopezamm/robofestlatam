@@ -105,7 +105,7 @@
                     <div class="col-lg-2 d-none d-lg-block">
                         <ul>
                             <li class="header-ticket">
-                                <a class="pr-0" href="#">Registrate!</a>
+                                <a class="pr-0" href="#">Regístrate!</a>
                             </li>
                         </ul>
                     </div>
@@ -124,7 +124,7 @@
                     <div class="col-lg-12">
                         <div class="banner-content">
                             <h1>Robofest</h1>
-                            <h2>Latinoamerica 2020</h2>
+                            <h2>Latinoámerica 2020</h2>
                             <p>¡Fechas muy pronto!</p>
                             <div class="primary-btn">
                                 <a href="#" class="btn-primary">Más Información</a>
@@ -161,7 +161,7 @@
                             <p>En este evento han participado selectivos nacionales de países como: Estados Unidos, Canadá, China, Egipto, Inglaterra, Francia, Ghana, Hong Kong, Hungría, India, Líbano, Singapur, Sudáfrica, y Corea del Sur.</p>
                            
 
-                            <p>México es la UNICA sede en Latinoamérica para la realización de esta competencia</p>
+                            <p>México es la UNICA sede en Latinoamérica para la realización de esta competencia.</p>
                         </div>
                     </div>
                     <!-- /col end-->
@@ -177,7 +177,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-3">
                         <div class="single-counter xs-mb40">
                             <div class="count-content">
-                                <span class="count">20</span>
+                                <span class="count">23</span>
                                 <p>Paises</p>
                             </div>
                         </div>
